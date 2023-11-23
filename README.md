@@ -1,5 +1,5 @@
 # Analise-critica-scrum-
-Esse repositório estarei colocando o desafio do dio.me
+Este repositório será utilizado para armazenar o desafio do dio.me.
 
 O uso do Scrum na Intel trouxe benefícios notáveis ​​para a forma como eles gerenciam projetos. 
 O Scrum, um frameowrk, proporcionou uma abordagem mais flexível e adaptativa aos processos da empresa. 
